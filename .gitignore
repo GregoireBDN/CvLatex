@@ -1,0 +1,27 @@
+# Fichiers temporaires LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.toc
+
+# Fichiers de compilation
+_minted*
+*.pyg
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'éditeur
+.vscode/
+.idea/
+*.swp
+*~
+
+# PDF généré (optionnel - décommenter si vous ne voulez pas versionner le PDF)
+# *.pdf 
